@@ -1,0 +1,33 @@
+_repo: The-Ancient-BannerOr-Brief-Sketches-of-Persons-and-Scenes-in-the-Early-History-of-Friends_19482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2006-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19482'
+language: en
+publication_note: "Philadelphia:\r\nJoseph Kite & Co., Printers,\r\nNo. 50 North Fourth\
+  \ Street.\r\n1846."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Society of Friends -- History -- Poetry'
+- !lcc 'PS'
+title: 'The Ancient Banner
+
+  Or, Brief Sketches of Persons and Scenes in the Early History of Friends'
+url: http://www.gutenberg.org/ebooks/19482
